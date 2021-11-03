@@ -36,3 +36,7 @@
 ![xinli2 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xinli2&theme=vue)
 ![xinli2 Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinli2&theme=vue)
 
+If you're here to pass your time, why not give [stargazer](https://github.com/aeneasr/stargazer) a try?
+
+[![Stargazer](https://raw.githubusercontent.com/arekkas/stargazer/master/stargazer.png)](http://aeneasr.github.io/stargazer/app/)
+
