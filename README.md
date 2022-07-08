@@ -5,7 +5,7 @@
 #### :raised_hand: About Me
 
 - 🌟 Motto: Life begins at the end of your comfort zone.
-- 🌱 Hobby: Coding & 🥍 Lacrosse & more.
+- 🌱 Hobby: Coding & 🥍 soccer & more.
 - 🏡 Hometown: China
 - ⚡ Fun fact: Oops! :sunglasses::sunglasses::sunglasses:
 - I had a great time.
